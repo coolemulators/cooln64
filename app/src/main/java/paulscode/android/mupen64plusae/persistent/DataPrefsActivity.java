@@ -30,7 +30,7 @@ import androidx.preference.Preference.OnPreferenceClickListener;
 import androidx.preference.PreferenceManager;
 import android.text.TextUtils;
 
-import org.mupen64plusae.v3.alpha.R;
+import app.cooln64.v5.coolemulators.R;
 
 import java.io.File;
 

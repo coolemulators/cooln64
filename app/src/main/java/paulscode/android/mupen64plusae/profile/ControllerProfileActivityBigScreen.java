@@ -22,7 +22,7 @@ package paulscode.android.mupen64plusae.profile;
 
 import java.util.Arrays;
 
-import org.mupen64plusae.v3.alpha.R;
+import app.cooln64.v5.coolemulators.R;
 
 import paulscode.android.mupen64plusae.dialog.Prompt;
 import paulscode.android.mupen64plusae.dialog.Prompt.ListItemTwoTextIconPopulator;

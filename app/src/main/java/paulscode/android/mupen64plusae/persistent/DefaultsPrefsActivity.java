@@ -29,7 +29,7 @@ import android.text.TextUtils;
 
 import com.bda.controller.Controller;
 
-import org.mupen64plusae.v3.alpha.R;
+import app.cooln64.v5.coolemulators.R;
 
 import paulscode.android.mupen64plusae.ActivityHelper;
 import paulscode.android.mupen64plusae.compat.AppCompatPreferenceActivity;

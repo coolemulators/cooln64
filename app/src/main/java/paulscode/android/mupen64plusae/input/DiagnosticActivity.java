@@ -34,7 +34,7 @@ import com.bda.controller.Controller;
 import com.bda.controller.ControllerListener;
 import com.bda.controller.StateEvent;
 
-import org.mupen64plusae.v3.alpha.R;
+import app.cooln64.v5.coolemulators.R;
 
 import java.util.Locale;
 

@@ -45,7 +45,7 @@ import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 import android.view.MenuItem.OnActionExpandListener;
 
-import org.mupen64plusae.v3.alpha.R;
+import app.cooln64.v5.coolemulators.R;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -984,12 +984,12 @@ public class GalleryActivity extends AppCompatActivity implements GameSidebarAct
     public void launchGameActivity( String romPath, String zipPath, String romMd5, String romCrc,
             String romHeaderName, byte romCountryCode, String romArtPath, String romGoodName, boolean isRestarting)
     {
-        Log.i( "GalleryActivity", "launchGameActivity" );
+        //Log.i( "GalleryActivity", "launchGameActivity" );
 
         // Make sure that the storage is accessible
         if( !ExtractAssetsTask.areAllAssetsPresent(SplashActivity.SOURCE_DIR, mAppData.coreSharedDataDir))
         {
-            Log.e( "GalleryActivity", "SD Card not accessible" );
+            //Log.e( "GalleryActivity", "SD Card not accessible" );
             Notifier.showToast( this, R.string.toast_sdInaccessible );
 
             mAppData.putAssetCheckNeeded(true);
@@ -1001,7 +1001,7 @@ public class GalleryActivity extends AppCompatActivity implements GameSidebarAct
         // Make sure that no libraries are missing
         if( !mAppData.isValidInstallation())
         {
-            Log.e( "GalleryActivity", "Invalid installation" );
+            //Log.e( "GalleryActivity", "Invalid installation" );
             Notifier.showToast(this, R.string.invalidInstall_message);
             return;
         }

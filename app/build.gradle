@@ -19,7 +19,7 @@ android {
         checkReleaseBuilds = false
     }
     defaultConfig {
-        applicationId = "org.mupen64plusae.v3.alpha"
+        applicationId = "app.cooln64.v5.coolemulators"
 
         ndk {
             abiFilters "armeabi-v7a", "arm64-v8a", "x86", "x86_64"

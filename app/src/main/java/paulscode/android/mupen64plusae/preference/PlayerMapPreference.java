@@ -22,7 +22,7 @@ package paulscode.android.mupen64plusae.preference;
 
 import java.util.List;
 
-import org.mupen64plusae.v3.alpha.R;
+import app.cooln64.v5.coolemulators.R;
 
 import paulscode.android.mupen64plusae.compat.AppCompatPreferenceActivity.OnPreferenceDialogListener;
 import paulscode.android.mupen64plusae.dialog.PromptInputCodeDialog;

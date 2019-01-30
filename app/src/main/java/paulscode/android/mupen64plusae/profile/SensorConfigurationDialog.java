@@ -2,7 +2,7 @@ package paulscode.android.mupen64plusae.profile;
 
 import java.util.Locale;
 
-import org.mupen64plusae.v3.alpha.R;
+import app.cooln64.v5.coolemulators.R;
 
 import android.app.AlertDialog.Builder;
 import android.content.Context;

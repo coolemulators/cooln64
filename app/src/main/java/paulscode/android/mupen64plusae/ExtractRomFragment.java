@@ -28,7 +28,7 @@ import android.os.Bundle;
 import android.os.IBinder;
 import androidx.fragment.app.Fragment;
 
-import org.mupen64plusae.v3.alpha.R;
+import app.cooln64.v5.coolemulators.R;
 
 import paulscode.android.mupen64plusae.dialog.ProgressDialog;
 import paulscode.android.mupen64plusae.task.ExtractRomService;

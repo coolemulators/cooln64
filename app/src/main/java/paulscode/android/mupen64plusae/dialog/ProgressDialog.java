@@ -1,6 +1,6 @@
 package paulscode.android.mupen64plusae.dialog;
 
-import org.mupen64plusae.v3.alpha.R;
+import app.cooln64.v5.coolemulators.R;
 
 import android.app.Activity;
 import android.app.AlertDialog;
