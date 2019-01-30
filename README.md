@@ -5,6 +5,9 @@ CoolN64, Android Edition (AE) is a Material Design 2 UI redesign for Mupen64Plus
 CoolN64, Android Edition (AE) is a fork of Mupen64Plus, Android Edition (AE), which is a port of Mupen64Plus to Android. (Not officially supported by the Mupen64Plus or Mupen64Plus-AE teams)
 
 Notable improvements:
+- Added Android App bundle (.aab) format. [Learn more here](https://medium.com/mindorks/android-app-bundle-aab-98de6dad8ba8)
+- Dynamic Delivery System support
+- Shrunk app size
 - ARM64 support
 - Optimal performance profiles per game
 - Material Design 2
