@@ -40,6 +40,7 @@ app/release
 
 # Intellij project files
 .idea/
+.idea
 *.iml
 *.ipr
 *.iws
@@ -49,3 +50,6 @@ crashreport.txt
 
 # Transifex client
 tx.exe
+
+# Finder index
+.DS_Store
