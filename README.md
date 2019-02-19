@@ -1,4 +1,4 @@
-cooln64
+CoolN64
 ==============
 
 CoolN64, Android Edition (AE) is a Material Design 2 UI redesign for Mupen64Plus.
