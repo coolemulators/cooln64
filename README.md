@@ -17,7 +17,7 @@ Please visit [the office Discord channel](https://discord.gg/VK88QDK) for suppor
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
       alt="Get it on Google Play"
-      height="80">](https://cooln64.page.link/opensource)
+      height="80">](https://cooln64.app)
 
 Build Instructions
 ==================
