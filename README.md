@@ -13,7 +13,7 @@ Notable improvements:
 - Material Design 2
 
 
-Please visit [the office Discord channel](https://discord.gg/VK88QDK) for support and discussion.
+Please visit [the official Discord channel](https://discord.gg/VK88QDK) for support and discussion.
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
       alt="Get it on Google Play"
